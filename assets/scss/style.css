@@ -39,3 +39,11 @@ a {
   border: solid goldenrod;
   background: goldenrod;
 }
+
+#team .container .grid {
+  margin-left: 150px;
+}
+#team .container .grid i {
+  height: 30px;
+  width: 30px;
+}/*# sourceMappingURL=style.css.map */
